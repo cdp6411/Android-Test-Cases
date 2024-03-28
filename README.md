@@ -2,7 +2,7 @@
 
 Follow the steps to find the InstrumentedTest case code.
 
-app/src/androidTest/java/com/cicd/android/MainActivityTest.java 
+<b>app/src/androidTest/java/com/cicd/android/MainActivityTest.java</b> 
 
 Check the Video for how to run test cases and how it works.
 
